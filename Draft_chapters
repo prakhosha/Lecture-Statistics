@@ -1,0 +1,50 @@
+1. What is statistics?
+- World
+- Process
+- Model
+- Deterministic Model
+- Statistical Model
+- This is what statistics trying to do
+
+2. Statistical Model
+- Mathematical notation for statistical model
+- Probability distribution
+- Discrete probability distribution
+- Famous discrete probability distributions
+- Continuous probability distribution
+- Famous continuous probability distribution
+
+3. How can statistical model be known? (parameter estimation)
+- What does it means to know?
+- Expectation / estimation
+- Data reduce models uncertainty
+- Frequentist paradigm
+- Bayesian paradigm
+- Philosophical consequences
+- Law of large numbers
+- Bias of estimation
+- Example: biasedness of standard deviation and Bessel's correction
+
+4. Frequentist paradigm parameter estimation
+- One-ness of true process
+- Histogram as estimate of pdf
+- Parametric parameter estimation (using distribution, assumptions, likelihood, MLE, Method of moments [what statistician usually do])
+- Non-parametric parameter estimation (histogram, kernel density estimation, generalized method of moments)
+
+5. Frequentist based inference
+- What does it means to infer?
+- Simulation(?)
+- Hypothesis testing
+- P-value
+- Confidence interval
+- Power law
+
+6. Bayesian paradigm parameter estimation
+- Distribution based parameter
+- Bayes theorem
+- MAP
+
+7. Bayesian based inference
+- Probability
+- Confidence interval
+- Bayes factor
